@@ -1,0 +1,17 @@
+{
+    "require": {
+        "php": ">=5.3.0",
+        "ext-curl": "*",
+        "ext-json": "*",
+        "paypal/rest-api-sdk-php": "0.5.*",
+		"facebook/php-sdk": "@stable",
+		"zendframework/zend-http": "2.2.3",
+        "zendframework/zendservice-twitter": "2.x",
+        "mockery/mockery": "0.8.x"
+    },
+    "autoload": {
+        "psr-0": {
+            "": "src/"
+        }
+    }
+}

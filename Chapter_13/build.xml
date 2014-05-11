@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<project name="Simple Project Build File" basedir="/var/xinc/projects/SimpleProject" default="build">
+    <property name="report.dir" value="${project.basedir}/report"/>
+	<property name="code.dir" value="${project.basedir}/code"/>
+	<property name="git.repo" value="https://github.com/machek/travis"/>
+    <target name="build" depends="prepare, gitpull, test, tar, generate-report">
+        
+    </target>
+    <target name="prepare">
+       <mkdir dir="${report.dir}"/>
+	   <mkdir dir="${code.dir}"/>
+    </target>
+	<target name="gitpull">
+		<echo msg="Getting latest code from ${git.repo}" />
+		<gitpull gitPath="git" repository="${code.dir}" all="true" />
+	</target>
+    <target name="tar">
+    	<tar destfile="${project.basedir}/release-${xinc.buildlabel}.tar.gz" compression="gzip">
+			 <fileset dir=".">
+				 <include name="index.php" />
+			 	 <include name="Page.php" />
+			 </fileset>
+			</tar>
+    </target>
+    <target name="test">
+        <phpunit haltonfailure="true" printsummary="true" configuration="${code.dir}/phpunit.xml">
+            <batchtest>
+                <fileset dir="${code.dir}/tests">
+                     <include name="*Test.php"/>
+                </fileset>
+            </batchtest>
+            <formatter type="xml" todir="${report.dir}" outfile="logfile.xml"/>
+        </phpunit>
+    </target>
+    <target name="generate-report">
+  		<phpunitreport infile="${report.dir}/logfile.xml" styledir="resources/xsl" todir="report" format="noframes"/>
+  	</target>
+</project>

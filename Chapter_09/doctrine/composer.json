@@ -1,0 +1,10 @@
+{
+"require": {
+	"doctrine/orm": "2.4.*",
+	"beberlei/DoctrineExtensions": "dev-master"
+},
+"autoload": {
+	"psr-0": {"": "src/"}
+},
+"minimum-stability" : "dev"
+}

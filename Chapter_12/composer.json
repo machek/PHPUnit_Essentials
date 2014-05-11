@@ -1,0 +1,13 @@
+{
+    "require": {
+        "php": ">=5.3.8"
+    },
+    "require-dev": {
+        "nearsoft/php-selenium-client": "*"
+    },
+    "autoload": {
+        "psr-0": {
+            "": "src/"
+        }
+    }
+}

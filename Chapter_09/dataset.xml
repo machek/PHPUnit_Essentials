@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<dataset>
+    <customer customer_id="1" firstname="John" lastname="Smith" email="john.smith@localhost"/>
+    <customer customer_id="2" firstname="Jenny" lastname="Smith" email="jenny.smith@localhost"/>
+    <product product_id="1" title="test product 1" description="some description" price="10.00"/>
+    <product product_id="2" title="test product 2" description="some description" price="20.00"/>
+    <invoice_status status_id="1" name="issued"/>
+    <invoice_status status_id="2" name="paid"/>
+    <invoice_status status_id="3" name="canceled"/>
+    <invoice invoice_id="1" status_id="1" customer_id="1" price_total="100.00" date_created="2013-01-20 08:00:00"/>
+    <invoice_item invoice_item_id="1" invoice_id="1" product_id="1" quantity="1" price="100.00"/>
+</dataset>

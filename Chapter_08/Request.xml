@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<request userId="1">
+    <items>
+        <item id="1" quantity="2" />
+        <item id="2" quantity="3" />
+    </items>
+</request>

@@ -1,0 +1,14 @@
+{
+    "require": {
+        "php": ">=5.3.0"
+    },
+    "require-dev": {
+        "antecedent/patchwork": "*",
+        "mikey179/vfsStream": "*"
+    },
+    "autoload": {
+        "psr-0": {
+            "": "src/"
+        }
+    }
+}

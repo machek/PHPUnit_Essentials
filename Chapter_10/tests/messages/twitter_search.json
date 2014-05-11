@@ -1,0 +1,2077 @@
+{
+    "statuses": [
+        {
+            "metadata": {
+                "result_type": "recent",
+                "iso_language_code": "en"
+            },
+            "created_at": "Fri Oct 25 10:12:48 +0000 2013",
+            "id": 393681541890867200,
+            "id_str": "393681541890867200",
+            "text": "RT @pminnieur: once you became familiar with #phpspec and #prophecy mocking, #PHPUnit mocking is a hell of a pain in the ass ...",
+            "source": "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
+            "truncated": false,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 426519979,
+                "id_str": "426519979",
+                "name": "Gildas Quéméner",
+                "screen_name": "GildasQ",
+                "location": "Akeneo - Nantes",
+                "description": "Developer Symfony2, Behat, PHPSpec, Agile and Dj",
+                "url": "http://t.co/UZ6mc17MZ3",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "http://t.co/UZ6mc17MZ3",
+                                "expanded_url": "http://github.com/gquemener",
+                                "display_url": "github.com/gquemener",
+                                "indices": [
+                                    0,
+                                    22
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 91,
+                "friends_count": 184,
+                "listed_count": 5,
+                "created_at": "Fri Dec 02 10:25:11 +0000 2011",
+                "favourites_count": 43,
+                "utc_offset": 7200,
+                "time_zone": "Paris",
+                "geo_enabled": true,
+                "verified": false,
+                "statuses_count": 354,
+                "lang": "fr",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "profile_background_color": "1A1B1F",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/2464424520/sgtj57766c1h9oun96ip_normal.jpeg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/2464424520/sgtj57766c1h9oun96ip_normal.jpeg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/426519979/1372957836",
+                "profile_link_color": "2FC2EF",
+                "profile_sidebar_border_color": "181A1E",
+                "profile_sidebar_fill_color": "252429",
+                "profile_text_color": "666666",
+                "profile_use_background_image": true,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweeted_status": {
+                "metadata": {
+                    "result_type": "recent",
+                    "iso_language_code": "en"
+                },
+                "created_at": "Fri Oct 25 09:58:26 +0000 2013",
+                "id": 393677926337482750,
+                "id_str": "393677926337482753",
+                "text": "once you became familiar with #phpspec and #prophecy mocking, #PHPUnit mocking is a hell of a pain in the ass ...",
+                "source": "web",
+                "truncated": false,
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "user": {
+                    "id": 17648639,
+                    "id_str": "17648639",
+                    "name": "Pierre Minnieur",
+                    "screen_name": "pminnieur",
+                    "location": "Düsseldorf, Germany",
+                    "description": "",
+                    "url": "http://t.co/pqsz9kSJwF",
+                    "entities": {
+                        "url": {
+                            "urls": [
+                                {
+                                    "url": "http://t.co/pqsz9kSJwF",
+                                    "expanded_url": "http://ferm.io",
+                                    "display_url": "ferm.io",
+                                    "indices": [
+                                        0,
+                                        22
+                                    ]
+                                }
+                            ]
+                        },
+                        "description": {
+                            "urls": []
+                        }
+                    },
+                    "protected": false,
+                    "followers_count": 277,
+                    "friends_count": 251,
+                    "listed_count": 22,
+                    "created_at": "Wed Nov 26 12:38:03 +0000 2008",
+                    "favourites_count": 159,
+                    "utc_offset": 7200,
+                    "time_zone": "Berlin",
+                    "geo_enabled": true,
+                    "verified": false,
+                    "statuses_count": 2296,
+                    "lang": "de",
+                    "contributors_enabled": false,
+                    "is_translator": false,
+                    "profile_background_color": "C0DEED",
+                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_tile": false,
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/2095248669/denker_normal.jpg",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/2095248669/denker_normal.jpg",
+                    "profile_link_color": "0084B4",
+                    "profile_sidebar_border_color": "C0DEED",
+                    "profile_sidebar_fill_color": "DDEEF6",
+                    "profile_text_color": "333333",
+                    "profile_use_background_image": true,
+                    "default_profile": true,
+                    "default_profile_image": false,
+                    "following": false,
+                    "follow_request_sent": false,
+                    "notifications": false
+                },
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "retweet_count": 1,
+                "favorite_count": 0,
+                "entities": {
+                    "hashtags": [
+                        {
+                            "text": "phpspec",
+                            "indices": [
+                                30,
+                                38
+                            ]
+                        },
+                        {
+                            "text": "prophecy",
+                            "indices": [
+                                43,
+                                52
+                            ]
+                        },
+                        {
+                            "text": "PHPUnit",
+                            "indices": [
+                                62,
+                                70
+                            ]
+                        }
+                    ],
+                    "symbols": [],
+                    "urls": [],
+                    "user_mentions": []
+                },
+                "favorited": false,
+                "retweeted": false,
+                "lang": "en"
+            },
+            "retweet_count": 1,
+            "favorite_count": 0,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "phpspec",
+                        "indices": [
+                            45,
+                            53
+                        ]
+                    },
+                    {
+                        "text": "prophecy",
+                        "indices": [
+                            58,
+                            67
+                        ]
+                    },
+                    {
+                        "text": "PHPUnit",
+                        "indices": [
+                            77,
+                            85
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "urls": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "pminnieur",
+                        "name": "Pierre Minnieur",
+                        "id": 17648639,
+                        "id_str": "17648639",
+                        "indices": [
+                            3,
+                            13
+                        ]
+                    }
+                ]
+            },
+            "favorited": false,
+            "retweeted": false,
+            "lang": "en"
+        },
+        {
+            "metadata": {
+                "result_type": "recent",
+                "iso_language_code": "en"
+            },
+            "created_at": "Fri Oct 25 10:09:00 +0000 2013",
+            "id": 393680583718481900,
+            "id_str": "393680583718481921",
+            "text": "@pminnieur why do you think I wrote the official integration of #prophecy with #PHPUnit ? https://t.co/OeB0khfWAj",
+            "source": "web",
+            "truncated": false,
+            "in_reply_to_status_id": 393677926337482750,
+            "in_reply_to_status_id_str": "393677926337482753",
+            "in_reply_to_user_id": 17648639,
+            "in_reply_to_user_id_str": "17648639",
+            "in_reply_to_screen_name": "pminnieur",
+            "user": {
+                "id": 270049458,
+                "id_str": "270049458",
+                "name": "Christophe Coevoet",
+                "screen_name": "Stof70",
+                "location": "",
+                "description": "#Symfony2 core developer , CTO @Incenteev",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 1894,
+                "friends_count": 135,
+                "listed_count": 114,
+                "created_at": "Mon Mar 21 22:22:44 +0000 2011",
+                "favourites_count": 11,
+                "utc_offset": 7200,
+                "time_zone": "Paris",
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 2275,
+                "lang": "fr",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1303100277/110407-141107_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1303100277/110407-141107_normal.jpg",
+                "profile_link_color": "0084B4",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "prophecy",
+                        "indices": [
+                            64,
+                            73
+                        ]
+                    },
+                    {
+                        "text": "PHPUnit",
+                        "indices": [
+                            79,
+                            87
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/OeB0khfWAj",
+                        "expanded_url": "https://github.com/phpspec/prophecy-phpunit",
+                        "display_url": "github.com/phpspec/prophe…",
+                        "indices": [
+                            90,
+                            113
+                        ]
+                    }
+                ],
+                "user_mentions": [
+                    {
+                        "screen_name": "pminnieur",
+                        "name": "Pierre Minnieur",
+                        "id": 17648639,
+                        "id_str": "17648639",
+                        "indices": [
+                            0,
+                            10
+                        ]
+                    }
+                ]
+            },
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        {
+            "metadata": {
+                "result_type": "recent",
+                "iso_language_code": "en"
+            },
+            "created_at": "Fri Oct 25 09:58:26 +0000 2013",
+            "id": 393677926337482750,
+            "id_str": "393677926337482753",
+            "text": "once you became familiar with #phpspec and #prophecy mocking, #PHPUnit mocking is a hell of a pain in the ass ...",
+            "source": "web",
+            "truncated": false,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 17648639,
+                "id_str": "17648639",
+                "name": "Pierre Minnieur",
+                "screen_name": "pminnieur",
+                "location": "Düsseldorf, Germany",
+                "description": "",
+                "url": "http://t.co/pqsz9kSJwF",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "http://t.co/pqsz9kSJwF",
+                                "expanded_url": "http://ferm.io",
+                                "display_url": "ferm.io",
+                                "indices": [
+                                    0,
+                                    22
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 277,
+                "friends_count": 251,
+                "listed_count": 22,
+                "created_at": "Wed Nov 26 12:38:03 +0000 2008",
+                "favourites_count": 159,
+                "utc_offset": 7200,
+                "time_zone": "Berlin",
+                "geo_enabled": true,
+                "verified": false,
+                "statuses_count": 2296,
+                "lang": "de",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/2095248669/denker_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/2095248669/denker_normal.jpg",
+                "profile_link_color": "0084B4",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweet_count": 1,
+            "favorite_count": 0,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "phpspec",
+                        "indices": [
+                            30,
+                            38
+                        ]
+                    },
+                    {
+                        "text": "prophecy",
+                        "indices": [
+                            43,
+                            52
+                        ]
+                    },
+                    {
+                        "text": "PHPUnit",
+                        "indices": [
+                            62,
+                            70
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "urls": [],
+                "user_mentions": []
+            },
+            "favorited": false,
+            "retweeted": false,
+            "lang": "en"
+        },
+        {
+            "metadata": {
+                "result_type": "recent",
+                "iso_language_code": "en"
+            },
+            "created_at": "Fri Oct 25 09:32:21 +0000 2013",
+            "id": 393671363094781950,
+            "id_str": "393671363094781952",
+            "text": "@kapeli There is a way to integrate @phpunit doc into Dash ? #doc #phpunit #dash",
+            "source": "web",
+            "truncated": false,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": 175264452,
+            "in_reply_to_user_id_str": "175264452",
+            "in_reply_to_screen_name": "kapeli",
+            "user": {
+                "id": 188747742,
+                "id_str": "188747742",
+                "name": "Rémy GAZELOT",
+                "screen_name": "rgazelot",
+                "location": "Paris",
+                "description": "Employé chez @wisembly & étudiant à l'@hetic - Développeur Symfony2",
+                "url": "http://t.co/dR8HbFadd1",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "http://t.co/dR8HbFadd1",
+                                "expanded_url": "http://www.remygazelot.fr",
+                                "display_url": "remygazelot.fr",
+                                "indices": [
+                                    0,
+                                    22
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 129,
+                "friends_count": 186,
+                "listed_count": 12,
+                "created_at": "Thu Sep 09 14:08:00 +0000 2010",
+                "favourites_count": 55,
+                "utc_offset": 7200,
+                "time_zone": "Paris",
+                "geo_enabled": true,
+                "verified": false,
+                "statuses_count": 1156,
+                "lang": "fr",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/2543466831/w4i1gv7jvrxa6ey80kla_normal.jpeg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/2543466831/w4i1gv7jvrxa6ey80kla_normal.jpeg",
+                "profile_link_color": "0084B4",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "doc",
+                        "indices": [
+                            61,
+                            65
+                        ]
+                    },
+                    {
+                        "text": "phpunit",
+                        "indices": [
+                            66,
+                            74
+                        ]
+                    },
+                    {
+                        "text": "dash",
+                        "indices": [
+                            75,
+                            80
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "urls": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "kapeli",
+                        "name": "Kapeli",
+                        "id": 175264452,
+                        "id_str": "175264452",
+                        "indices": [
+                            0,
+                            7
+                        ]
+                    },
+                    {
+                        "screen_name": "phpunit",
+                        "name": "PHPUnit",
+                        "id": 19057969,
+                        "id_str": "19057969",
+                        "indices": [
+                            36,
+                            44
+                        ]
+                    }
+                ]
+            },
+            "favorited": false,
+            "retweeted": false,
+            "lang": "en"
+        },
+        {
+            "metadata": {
+                "result_type": "recent",
+                "iso_language_code": "en"
+            },
+            "created_at": "Fri Oct 25 06:35:14 +0000 2013",
+            "id": 393626788649115650,
+            "id_str": "393626788649115648",
+            "text": "What My Co-Workers and I Learned When Trying to Write Unit Tests for #PHPUnit http://t.co/0DxGY9lJZp",
+            "source": "web",
+            "truncated": false,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 413734779,
+                "id_str": "413734779",
+                "name": "Shouvik Chatterjee",
+                "screen_name": "tweetshouvik",
+                "location": "Gurgaon Area, India",
+                "description": "Engineer @Kayako, Thinker, Creator of https://t.co/TgPWihwhr4 + http://t.co/U44qsKRj4A, Author, #Javascript enthusiast and an #OpenSource lover.",
+                "url": "http://t.co/nd4ga8UaVz",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "http://t.co/nd4ga8UaVz",
+                                "expanded_url": "http://shouvik.net",
+                                "display_url": "shouvik.net",
+                                "indices": [
+                                    0,
+                                    22
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/TgPWihwhr4",
+                                "expanded_url": "https://logs.ws",
+                                "display_url": "logs.ws",
+                                "indices": [
+                                    38,
+                                    61
+                                ]
+                            },
+                            {
+                                "url": "http://t.co/U44qsKRj4A",
+                                "expanded_url": "http://apibin.org",
+                                "display_url": "apibin.org",
+                                "indices": [
+                                    64,
+                                    86
+                                ]
+                            }
+                        ]
+                    }
+                },
+                "protected": false,
+                "followers_count": 91,
+                "friends_count": 333,
+                "listed_count": 2,
+                "created_at": "Wed Nov 16 06:00:24 +0000 2011",
+                "favourites_count": 13,
+                "utc_offset": 19800,
+                "time_zone": "New Delhi",
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 581,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "profile_background_color": "000000",
+                "profile_background_image_url": "http://a0.twimg.com/profile_background_images/378800000092832081/6835575276407599784048f24378f590.jpeg",
+                "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/378800000092832081/6835575276407599784048f24378f590.jpeg",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/378800000451145089/f6fb86235db598b8a7d73020022af21b_normal.jpeg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000451145089/f6fb86235db598b8a7d73020022af21b_normal.jpeg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/413734779/1353054516",
+                "profile_link_color": "FF0000",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "D6D6D6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "PHPUnit",
+                        "indices": [
+                            69,
+                            77
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "urls": [
+                    {
+                        "url": "http://t.co/0DxGY9lJZp",
+                        "expanded_url": "http://lars-tesmer.com/blog/2011/09/08/what-my-co---workers-and-i-learned-when-trying-to-write-unit-tests-for-phpunit/",
+                        "display_url": "lars-tesmer.com/blog/2011/09/0…",
+                        "indices": [
+                            78,
+                            100
+                        ]
+                    }
+                ],
+                "user_mentions": []
+            },
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        {
+            "metadata": {
+                "result_type": "recent",
+                "iso_language_code": "en"
+            },
+            "created_at": "Thu Oct 24 18:53:37 +0000 2013",
+            "id": 393450221780209660,
+            "id_str": "393450221780209665",
+            "text": "Tiring day. I thought I'm good at unit testing with #PHPUnit but a bad day today. Could not solve a #Zend testcase problem in 4 hours :(",
+            "source": "web",
+            "truncated": false,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 489721154,
+                "id_str": "489721154",
+                "name": "Kapil Sharma",
+                "screen_name": "kapilsharmainfo",
+                "location": "Pune",
+                "description": "Technical Lead @ EasternEnterprise, FOSS user and developer",
+                "url": "http://t.co/lFvAOYkOGt",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "http://t.co/lFvAOYkOGt",
+                                "expanded_url": "http://www.kapilsharma.info",
+                                "display_url": "kapilsharma.info",
+                                "indices": [
+                                    0,
+                                    22
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 297,
+                "friends_count": 416,
+                "listed_count": 0,
+                "created_at": "Sat Feb 11 20:29:08 +0000 2012",
+                "favourites_count": 1,
+                "utc_offset": 19800,
+                "time_zone": "Chennai",
+                "geo_enabled": true,
+                "verified": false,
+                "statuses_count": 182,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "profile_background_color": "8889FF",
+                "profile_background_image_url": "http://a0.twimg.com/profile_background_images/378800000099824727/b5b842563d5c6645a3433b6416d0c89f.jpeg",
+                "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/378800000099824727/b5b842563d5c6645a3433b6416d0c89f.jpeg",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/3370261271/c77a76d017e5d167dbf19a7ca3ff9d8f_normal.jpeg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/3370261271/c77a76d017e5d167dbf19a7ca3ff9d8f_normal.jpeg",
+                "profile_link_color": "FF0000",
+                "profile_sidebar_border_color": "FFFFFF",
+                "profile_sidebar_fill_color": "F6F6F6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "PHPUnit",
+                        "indices": [
+                            52,
+                            60
+                        ]
+                    },
+                    {
+                        "text": "Zend",
+                        "indices": [
+                            100,
+                            105
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "urls": [],
+                "user_mentions": []
+            },
+            "favorited": false,
+            "retweeted": false,
+            "lang": "en"
+        },
+        {
+            "metadata": {
+                "result_type": "recent",
+                "iso_language_code": "es"
+            },
+            "created_at": "Thu Oct 24 17:15:25 +0000 2013",
+            "id": 393425508324491260,
+            "id_str": "393425508324491264",
+            "text": "RT @augustohp: Testando #fixtures com data no #phpunit por @nelson_senna http://t.co/JEVPNVrf5L",
+            "source": "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
+            "truncated": false,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 85314937,
+                "id_str": "85314937",
+                "name": "Willian Campideli",
+                "screen_name": "willcampideli",
+                "location": "",
+                "description": "",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 92,
+                "friends_count": 246,
+                "listed_count": 15,
+                "created_at": "Mon Oct 26 13:29:05 +0000 2009",
+                "favourites_count": 18,
+                "utc_offset": -7200,
+                "time_zone": "Greenland",
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 1833,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1105056834/rajatkashyap-batman-tux_normal.png",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1105056834/rajatkashyap-batman-tux_normal.png",
+                "profile_link_color": "0084B4",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweeted_status": {
+                "metadata": {
+                    "result_type": "recent",
+                    "iso_language_code": "es"
+                },
+                "created_at": "Thu Oct 24 17:07:03 +0000 2013",
+                "id": 393423404407087100,
+                "id_str": "393423404407087104",
+                "text": "Testando #fixtures com data no #phpunit por @nelson_senna http://t.co/JEVPNVrf5L",
+                "source": "web",
+                "truncated": false,
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "user": {
+                    "id": 15416900,
+                    "id_str": "15416900",
+                    "name": "Augusto Pascutti",
+                    "screen_name": "augustohp",
+                    "location": "Ipiranga, São Paulo - Brazil",
+                    "description": "XKCD Evangelist.",
+                    "url": "http://t.co/Il2QoiRLSG",
+                    "entities": {
+                        "url": {
+                            "urls": [
+                                {
+                                    "url": "http://t.co/Il2QoiRLSG",
+                                    "expanded_url": "http://about.me/augustohp",
+                                    "display_url": "about.me/augustohp",
+                                    "indices": [
+                                        0,
+                                        22
+                                    ]
+                                }
+                            ]
+                        },
+                        "description": {
+                            "urls": []
+                        }
+                    },
+                    "protected": false,
+                    "followers_count": 1245,
+                    "friends_count": 228,
+                    "listed_count": 113,
+                    "created_at": "Sun Jul 13 17:51:22 +0000 2008",
+                    "favourites_count": 70,
+                    "utc_offset": -7200,
+                    "time_zone": "Brasilia",
+                    "geo_enabled": true,
+                    "verified": false,
+                    "statuses_count": 7739,
+                    "lang": "en",
+                    "contributors_enabled": false,
+                    "is_translator": false,
+                    "profile_background_color": "022330",
+                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+                    "profile_background_tile": false,
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/378800000531542677/bde96b43c208f25be26684d1248a9150_normal.jpeg",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000531542677/bde96b43c208f25be26684d1248a9150_normal.jpeg",
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/15416900/1356188904",
+                    "profile_link_color": "0084B4",
+                    "profile_sidebar_border_color": "A8C7F7",
+                    "profile_sidebar_fill_color": "C0DFEC",
+                    "profile_text_color": "333333",
+                    "profile_use_background_image": true,
+                    "default_profile": false,
+                    "default_profile_image": false,
+                    "following": false,
+                    "follow_request_sent": false,
+                    "notifications": false
+                },
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "retweet_count": 1,
+                "favorite_count": 3,
+                "entities": {
+                    "hashtags": [
+                        {
+                            "text": "fixtures",
+                            "indices": [
+                                9,
+                                18
+                            ]
+                        },
+                        {
+                            "text": "phpunit",
+                            "indices": [
+                                31,
+                                39
+                            ]
+                        }
+                    ],
+                    "symbols": [],
+                    "urls": [
+                        {
+                            "url": "http://t.co/JEVPNVrf5L",
+                            "expanded_url": "http://nelsonsar.github.io/2013/10/22/Testando-datasets-com-data-com-phpunit.html",
+                            "display_url": "nelsonsar.github.io/2013/10/22/Tes…",
+                            "indices": [
+                                58,
+                                80
+                            ]
+                        }
+                    ],
+                    "user_mentions": [
+                        {
+                            "screen_name": "nelson_senna",
+                            "name": "Nelson Senna",
+                            "id": 333615767,
+                            "id_str": "333615767",
+                            "indices": [
+                                44,
+                                57
+                            ]
+                        }
+                    ]
+                },
+                "favorited": false,
+                "retweeted": false,
+                "possibly_sensitive": false,
+                "lang": "es"
+            },
+            "retweet_count": 1,
+            "favorite_count": 0,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "fixtures",
+                        "indices": [
+                            24,
+                            33
+                        ]
+                    },
+                    {
+                        "text": "phpunit",
+                        "indices": [
+                            46,
+                            54
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "urls": [
+                    {
+                        "url": "http://t.co/JEVPNVrf5L",
+                        "expanded_url": "http://nelsonsar.github.io/2013/10/22/Testando-datasets-com-data-com-phpunit.html",
+                        "display_url": "nelsonsar.github.io/2013/10/22/Tes…",
+                        "indices": [
+                            73,
+                            95
+                        ]
+                    }
+                ],
+                "user_mentions": [
+                    {
+                        "screen_name": "augustohp",
+                        "name": "Augusto Pascutti",
+                        "id": 15416900,
+                        "id_str": "15416900",
+                        "indices": [
+                            3,
+                            13
+                        ]
+                    },
+                    {
+                        "screen_name": "nelson_senna",
+                        "name": "Nelson Senna",
+                        "id": 333615767,
+                        "id_str": "333615767",
+                        "indices": [
+                            59,
+                            72
+                        ]
+                    }
+                ]
+            },
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "es"
+        },
+        {
+            "metadata": {
+                "result_type": "recent",
+                "iso_language_code": "es"
+            },
+            "created_at": "Thu Oct 24 17:07:03 +0000 2013",
+            "id": 393423404407087100,
+            "id_str": "393423404407087104",
+            "text": "Testando #fixtures com data no #phpunit por @nelson_senna http://t.co/JEVPNVrf5L",
+            "source": "web",
+            "truncated": false,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 15416900,
+                "id_str": "15416900",
+                "name": "Augusto Pascutti",
+                "screen_name": "augustohp",
+                "location": "Ipiranga, São Paulo - Brazil",
+                "description": "XKCD Evangelist.",
+                "url": "http://t.co/Il2QoiRLSG",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "http://t.co/Il2QoiRLSG",
+                                "expanded_url": "http://about.me/augustohp",
+                                "display_url": "about.me/augustohp",
+                                "indices": [
+                                    0,
+                                    22
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 1245,
+                "friends_count": 228,
+                "listed_count": 113,
+                "created_at": "Sun Jul 13 17:51:22 +0000 2008",
+                "favourites_count": 70,
+                "utc_offset": -7200,
+                "time_zone": "Brasilia",
+                "geo_enabled": true,
+                "verified": false,
+                "statuses_count": 7739,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "profile_background_color": "022330",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/378800000531542677/bde96b43c208f25be26684d1248a9150_normal.jpeg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000531542677/bde96b43c208f25be26684d1248a9150_normal.jpeg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/15416900/1356188904",
+                "profile_link_color": "0084B4",
+                "profile_sidebar_border_color": "A8C7F7",
+                "profile_sidebar_fill_color": "C0DFEC",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweet_count": 1,
+            "favorite_count": 3,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "fixtures",
+                        "indices": [
+                            9,
+                            18
+                        ]
+                    },
+                    {
+                        "text": "phpunit",
+                        "indices": [
+                            31,
+                            39
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "urls": [
+                    {
+                        "url": "http://t.co/JEVPNVrf5L",
+                        "expanded_url": "http://nelsonsar.github.io/2013/10/22/Testando-datasets-com-data-com-phpunit.html",
+                        "display_url": "nelsonsar.github.io/2013/10/22/Tes…",
+                        "indices": [
+                            58,
+                            80
+                        ]
+                    }
+                ],
+                "user_mentions": [
+                    {
+                        "screen_name": "nelson_senna",
+                        "name": "Nelson Senna",
+                        "id": 333615767,
+                        "id_str": "333615767",
+                        "indices": [
+                            44,
+                            57
+                        ]
+                    }
+                ]
+            },
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "es"
+        },
+        {
+            "metadata": {
+                "result_type": "recent",
+                "iso_language_code": "en"
+            },
+            "created_at": "Thu Oct 24 09:07:10 +0000 2013",
+            "id": 393302635660726300,
+            "id_str": "393302635660726272",
+            "text": "writing tests for soap services #phpunit #ftw",
+            "source": "<a href=\"http://www.osfoora.com/mac\" rel=\"nofollow\">Osfoora for Mac</a>",
+            "truncated": false,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 14723006,
+                "id_str": "14723006",
+                "name": "ulrik nielsen",
+                "screen_name": "mrbase",
+                "location": "kolding, denmark",
+                "description": "geek with a twist of lemon",
+                "url": "http://t.co/hpxW09KY0U",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "http://t.co/hpxW09KY0U",
+                                "expanded_url": "http://mrbase.dk/",
+                                "display_url": "mrbase.dk",
+                                "indices": [
+                                    0,
+                                    22
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 54,
+                "friends_count": 80,
+                "listed_count": 3,
+                "created_at": "Sat May 10 08:50:58 +0000 2008",
+                "favourites_count": 25,
+                "utc_offset": 7200,
+                "time_zone": "Copenhagen",
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 2731,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "profile_background_color": "352726",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1795370361/buddy_coffee_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1795370361/buddy_coffee_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/14723006/1366368811",
+                "profile_link_color": "D02B55",
+                "profile_sidebar_border_color": "829D5E",
+                "profile_sidebar_fill_color": "99CC33",
+                "profile_text_color": "3E4415",
+                "profile_use_background_image": true,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "phpunit",
+                        "indices": [
+                            32,
+                            40
+                        ]
+                    },
+                    {
+                        "text": "ftw",
+                        "indices": [
+                            41,
+                            45
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "urls": [],
+                "user_mentions": []
+            },
+            "favorited": false,
+            "retweeted": false,
+            "lang": "en"
+        },
+        {
+            "metadata": {
+                "result_type": "recent",
+                "iso_language_code": "en"
+            },
+            "created_at": "Thu Oct 24 08:46:30 +0000 2013",
+            "id": 393297437332238340,
+            "id_str": "393297437332238337",
+            "text": "Can anyone explain this type of behaviour in PhpUnit? http://t.co/7upd6E8InY #PhpUnit #newbie",
+            "source": "web",
+            "truncated": false,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 88639488,
+                "id_str": "88639488",
+                "name": "Tom Schuermans",
+                "screen_name": "TSchuermans",
+                "location": "Belgium",
+                "description": "Developer at @nucleus_hosting",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 120,
+                "friends_count": 264,
+                "listed_count": 6,
+                "created_at": "Mon Nov 09 10:52:49 +0000 2009",
+                "favourites_count": 28,
+                "utc_offset": 7200,
+                "time_zone": "Brussels",
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 3354,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "profile_background_color": "010910",
+                "profile_background_image_url": "http://a0.twimg.com/profile_background_images/799285573/b8ecc0e5a779c788a876c32fba7d5f19.jpeg",
+                "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/799285573/b8ecc0e5a779c788a876c32fba7d5f19.jpeg",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1272322113/twitter_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1272322113/twitter_normal.jpg",
+                "profile_link_color": "2BAB3A",
+                "profile_sidebar_border_color": "FFFFFF",
+                "profile_sidebar_fill_color": "161A15",
+                "profile_text_color": "FFFFFF",
+                "profile_use_background_image": true,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "PhpUnit",
+                        "indices": [
+                            77,
+                            85
+                        ]
+                    },
+                    {
+                        "text": "newbie",
+                        "indices": [
+                            86,
+                            93
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "urls": [
+                    {
+                        "url": "http://t.co/7upd6E8InY",
+                        "expanded_url": "http://pastebin.com/yzyVZGaK",
+                        "display_url": "pastebin.com/yzyVZGaK",
+                        "indices": [
+                            54,
+                            76
+                        ]
+                    }
+                ],
+                "user_mentions": []
+            },
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        {
+            "metadata": {
+                "result_type": "recent",
+                "iso_language_code": "en"
+            },
+            "created_at": "Wed Oct 23 20:01:09 +0000 2013",
+            "id": 393104828831772700,
+            "id_str": "393104828831772672",
+            "text": "FAILURES! Tests: 2, Assertions: 0, Errors: 842. #PHPUnit #unittests",
+            "source": "web",
+            "truncated": false,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 89759486,
+                "id_str": "89759486",
+                "name": "Thomas Hunter II",
+                "screen_name": "tlhunter",
+                "location": "Ann Arbor, MI",
+                "description": "Programmer, Author, Artist, Runner.\nNode.js, PHP, MySQL, MongoDB, Redis.",
+                "url": "http://t.co/tQmkTZ68Rs",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "http://t.co/tQmkTZ68Rs",
+                                "expanded_url": "http://thomashunter.name",
+                                "display_url": "thomashunter.name",
+                                "indices": [
+                                    0,
+                                    22
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 509,
+                "friends_count": 219,
+                "listed_count": 25,
+                "created_at": "Fri Nov 13 18:20:46 +0000 2009",
+                "favourites_count": 43,
+                "utc_offset": -14400,
+                "time_zone": "Eastern Time (US & Canada)",
+                "geo_enabled": true,
+                "verified": false,
+                "statuses_count": 2784,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "profile_background_color": "000000",
+                "profile_background_image_url": "http://a0.twimg.com/profile_background_images/652741301/1fdw9a6h56nbturu95jt.png",
+                "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/652741301/1fdw9a6h56nbturu95jt.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/378800000408280687/53ec6ecea45899e31cd8341eeacce37a_normal.png",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000408280687/53ec6ecea45899e31cd8341eeacce37a_normal.png",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/89759486/1377120066",
+                "profile_link_color": "FF6F00",
+                "profile_sidebar_border_color": "EEEEEE",
+                "profile_sidebar_fill_color": "EFEFEF",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "PHPUnit",
+                        "indices": [
+                            48,
+                            56
+                        ]
+                    },
+                    {
+                        "text": "unittests",
+                        "indices": [
+                            57,
+                            67
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "urls": [],
+                "user_mentions": []
+            },
+            "favorited": false,
+            "retweeted": false,
+            "lang": "en"
+        },
+        {
+            "metadata": {
+                "result_type": "recent",
+                "iso_language_code": "en"
+            },
+            "created_at": "Wed Oct 23 19:40:59 +0000 2013",
+            "id": 393099755641122800,
+            "id_str": "393099755641122816",
+            "text": "RT @bracki: Solution to yesterdays problem: Extract PHP file from JAR, patch and rejar. #intellij #composer #phpunit",
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "truncated": false,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 418175344,
+                "id_str": "418175344",
+                "name": "OschenPoschn",
+                "screen_name": "OschenPoschen",
+                "location": "Hamburg",
+                "description": "faul",
+                "url": "https://t.co/IioZeCDerL",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/IioZeCDerL",
+                                "expanded_url": "https://github.com/schnipseljagd",
+                                "display_url": "github.com/schnipseljagd",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 17,
+                "friends_count": 37,
+                "listed_count": 0,
+                "created_at": "Mon Nov 21 21:11:56 +0000 2011",
+                "favourites_count": 0,
+                "utc_offset": 7200,
+                "time_zone": "Amsterdam",
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 127,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/2296021007/j3yuopkk9gswassw5anq_normal.jpeg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/2296021007/j3yuopkk9gswassw5anq_normal.jpeg",
+                "profile_link_color": "0084B4",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweeted_status": {
+                "metadata": {
+                    "result_type": "recent",
+                    "iso_language_code": "en"
+                },
+                "created_at": "Wed Oct 23 06:42:47 +0000 2013",
+                "id": 392903912510193660,
+                "id_str": "392903912510193664",
+                "text": "Solution to yesterdays problem: Extract PHP file from JAR, patch and rejar. #intellij #composer #phpunit",
+                "source": "<a href=\"http://www.vim.org/scripts/script.php?script_id=2204\" rel=\"nofollow\">TwitVim</a>",
+                "truncated": false,
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "user": {
+                    "id": 7630692,
+                    "id_str": "7630692",
+                    "name": "Jan B.",
+                    "screen_name": "bracki",
+                    "location": "",
+                    "description": "Don't check I with no lightweight stuff!",
+                    "url": null,
+                    "entities": {
+                        "description": {
+                            "urls": []
+                        }
+                    },
+                    "protected": false,
+                    "followers_count": 224,
+                    "friends_count": 280,
+                    "listed_count": 15,
+                    "created_at": "Sat Jul 21 22:38:46 +0000 2007",
+                    "favourites_count": 88,
+                    "utc_offset": 7200,
+                    "time_zone": "Berlin",
+                    "geo_enabled": true,
+                    "verified": false,
+                    "statuses_count": 1467,
+                    "lang": "en",
+                    "contributors_enabled": false,
+                    "is_translator": false,
+                    "profile_background_color": "425455",
+                    "profile_background_image_url": "http://a0.twimg.com/profile_background_images/2404069/twitter.jpg",
+                    "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/2404069/twitter.jpg",
+                    "profile_background_tile": false,
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/1199889249/jb_normal.jpg",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1199889249/jb_normal.jpg",
+                    "profile_link_color": "0000FF",
+                    "profile_sidebar_border_color": "394628",
+                    "profile_sidebar_fill_color": "7C8568",
+                    "profile_text_color": "000000",
+                    "profile_use_background_image": true,
+                    "default_profile": false,
+                    "default_profile_image": false,
+                    "following": false,
+                    "follow_request_sent": false,
+                    "notifications": false
+                },
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "retweet_count": 1,
+                "favorite_count": 0,
+                "entities": {
+                    "hashtags": [
+                        {
+                            "text": "intellij",
+                            "indices": [
+                                76,
+                                85
+                            ]
+                        },
+                        {
+                            "text": "composer",
+                            "indices": [
+                                86,
+                                95
+                            ]
+                        },
+                        {
+                            "text": "phpunit",
+                            "indices": [
+                                96,
+                                104
+                            ]
+                        }
+                    ],
+                    "symbols": [],
+                    "urls": [],
+                    "user_mentions": []
+                },
+                "favorited": false,
+                "retweeted": false,
+                "lang": "en"
+            },
+            "retweet_count": 1,
+            "favorite_count": 0,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "intellij",
+                        "indices": [
+                            88,
+                            97
+                        ]
+                    },
+                    {
+                        "text": "composer",
+                        "indices": [
+                            98,
+                            107
+                        ]
+                    },
+                    {
+                        "text": "phpunit",
+                        "indices": [
+                            108,
+                            116
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "urls": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "bracki",
+                        "name": "Jan B.",
+                        "id": 7630692,
+                        "id_str": "7630692",
+                        "indices": [
+                            3,
+                            10
+                        ]
+                    }
+                ]
+            },
+            "favorited": false,
+            "retweeted": false,
+            "lang": "en"
+        },
+        {
+            "metadata": {
+                "result_type": "recent",
+                "iso_language_code": "en"
+            },
+            "created_at": "Wed Oct 23 16:58:45 +0000 2013",
+            "id": 393058927249612800,
+            "id_str": "393058927249612800",
+            "text": "Arguably the most fun about unit testing is the architectural ideas you get!\nThe least fun is looking back in horror/awe\n#phpUnit #unitTests",
+            "source": "web",
+            "truncated": false,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 171424615,
+                "id_str": "171424615",
+                "name": "David P.",
+                "screen_name": "Luckyluz8",
+                "location": "",
+                "description": "",
+                "url": "https://t.co/jWmqOClIDh",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/jWmqOClIDh",
+                                "expanded_url": "https://soundcloud.com/qdance",
+                                "display_url": "soundcloud.com/qdance",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 44,
+                "friends_count": 89,
+                "listed_count": 1,
+                "created_at": "Tue Jul 27 09:17:50 +0000 2010",
+                "favourites_count": 6,
+                "utc_offset": 7200,
+                "time_zone": "Amsterdam",
+                "geo_enabled": true,
+                "verified": false,
+                "statuses_count": 1295,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1593160711/313558_213425815380406_100001389685990_602256_3499802_n_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1593160711/313558_213425815380406_100001389685990_602256_3499802_n_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/171424615/1366794884",
+                "profile_link_color": "0084B4",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweet_count": 0,
+            "favorite_count": 1,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "phpUnit",
+                        "indices": [
+                            121,
+                            129
+                        ]
+                    },
+                    {
+                        "text": "unitTests",
+                        "indices": [
+                            130,
+                            140
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "urls": [],
+                "user_mentions": []
+            },
+            "favorited": false,
+            "retweeted": false,
+            "lang": "en"
+        },
+        {
+            "metadata": {
+                "result_type": "recent",
+                "iso_language_code": "en"
+            },
+            "created_at": "Wed Oct 23 13:00:01 +0000 2013",
+            "id": 392998847649447940,
+            "id_str": "392998847649447936",
+            "text": "@settermjd probably best to increase memory limit to 2G. We saw the issue in PHP5.2 only - maybe worth a trial to upgrade to PHP5.3 #phpunit",
+            "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">HootSuite</a>",
+            "truncated": false,
+            "in_reply_to_status_id": 392987455932362750,
+            "in_reply_to_status_id_str": "392987455932362752",
+            "in_reply_to_user_id": 14866012,
+            "in_reply_to_user_id_str": "14866012",
+            "in_reply_to_screen_name": "settermjd",
+            "user": {
+                "id": 18902263,
+                "id_str": "18902263",
+                "name": "Marco Steinhäuser",
+                "screen_name": "marcosteinhaeus",
+                "location": "Leipzig, Germany",
+                "description": "OXID eSales AG - Community Guide. Interested in eCommerce, shopping cart systems, open source, i18n + l10n and community building",
+                "url": "http://t.co/RSpKrPz44n",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "http://t.co/RSpKrPz44n",
+                                "expanded_url": "http://www.marco-steinhaeuser.de",
+                                "display_url": "marco-steinhaeuser.de",
+                                "indices": [
+                                    0,
+                                    22
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 1467,
+                "friends_count": 1145,
+                "listed_count": 54,
+                "created_at": "Mon Jan 12 14:48:16 +0000 2009",
+                "favourites_count": 7,
+                "utc_offset": 7200,
+                "time_zone": "Berlin",
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 2832,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "profile_background_color": "0099B9",
+                "profile_background_image_url": "http://a0.twimg.com/profile_background_images/353234362/twilk_background_4ea80827b81d0.jpg",
+                "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/353234362/twilk_background_4ea80827b81d0.jpg",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/309147437/DSC_9388b_800_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/309147437/DSC_9388b_800_normal.jpg",
+                "profile_link_color": "0099B9",
+                "profile_sidebar_border_color": "5ED4DC",
+                "profile_sidebar_fill_color": "95E8EC",
+                "profile_text_color": "3C3940",
+                "profile_use_background_image": true,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "phpunit",
+                        "indices": [
+                            132,
+                            140
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "urls": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "settermjd",
+                        "name": "Matthew Setter",
+                        "id": 14866012,
+                        "id_str": "14866012",
+                        "indices": [
+                            0,
+                            10
+                        ]
+                    }
+                ]
+            },
+            "favorited": false,
+            "retweeted": false,
+            "lang": "en"
+        },
+        {
+            "metadata": {
+                "result_type": "recent",
+                "iso_language_code": "en"
+            },
+            "created_at": "Wed Oct 23 12:14:45 +0000 2013",
+            "id": 392987455932362750,
+            "id_str": "392987455932362752",
+            "text": "Any tips for avoiding out of memory errors when attempting to run #phpunit with @OXID_eSales?",
+            "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">HootSuite</a>",
+            "truncated": false,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 14866012,
+                "id_str": "14866012",
+                "name": "Matthew Setter",
+                "screen_name": "settermjd",
+                "location": "Nuremberg, Germany",
+                "description": "Freelance Technical Writer, Web Application Developer & Author of Zend Framework 2 for Beginners. Find more at http://t.co/Buwx8ZEbAB",
+                "url": "http://t.co/Buwx8ZEbAB",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "http://t.co/Buwx8ZEbAB",
+                                "expanded_url": "http://www.matthewsetter.com",
+                                "display_url": "matthewsetter.com",
+                                "indices": [
+                                    0,
+                                    22
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": [
+                            {
+                                "url": "http://t.co/Buwx8ZEbAB",
+                                "expanded_url": "http://www.matthewsetter.com",
+                                "display_url": "matthewsetter.com",
+                                "indices": [
+                                    111,
+                                    133
+                                ]
+                            }
+                        ]
+                    }
+                },
+                "protected": false,
+                "followers_count": 435,
+                "friends_count": 964,
+                "listed_count": 16,
+                "created_at": "Thu May 22 08:11:13 +0000 2008",
+                "favourites_count": 33,
+                "utc_offset": 7200,
+                "time_zone": "Berlin",
+                "geo_enabled": true,
+                "verified": false,
+                "statuses_count": 2045,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "profile_background_color": "022330",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1342730036/IMG_0612-small-2_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1342730036/IMG_0612-small-2_normal.jpg",
+                "profile_link_color": "0084B4",
+                "profile_sidebar_border_color": "A8C7F7",
+                "profile_sidebar_fill_color": "C0DFEC",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "phpunit",
+                        "indices": [
+                            66,
+                            74
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "urls": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "OXID_eSales",
+                        "name": "OXID eSales AG",
+                        "id": 15438219,
+                        "id_str": "15438219",
+                        "indices": [
+                            80,
+                            92
+                        ]
+                    }
+                ]
+            },
+            "favorited": false,
+            "retweeted": false,
+            "lang": "en"
+        }
+    ],
+    "search_metadata": {
+        "completed_in": 0.034,
+        "max_id": 393681541890867200,
+        "max_id_str": "393681541890867200",
+        "next_results": "?max_id=392987455932362751&q=%23phpunit&include_entities=1",
+        "query": "%23phpunit",
+        "refresh_url": "?since_id=393681541890867200&q=%23phpunit&include_entities=1",
+        "count": 15,
+        "since_id": 0,
+        "since_id_str": "0"
+    }
+}
