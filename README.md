@@ -10,5 +10,5 @@ Required third party libraries need to be installed by Composer.
 >php composer.phar install
 ```
 
-More information and possibility to purchased book at:
+More information about this book you can find at:
 http://www.packtpub.com/learn-how-to-write-and-test-codes-using-phpunit-essentials/book
