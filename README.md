@@ -1,7 +1,7 @@
 PHPUnit_Essentials
 ==================
 
-Code used in PHPUnit_Essentials book.
+Code used in PHPUnit Essentials book published by Packt Publishing.
 Code for each chapter is stored in own folder.
 
 Required third party libraries need to be installed by Composer.
