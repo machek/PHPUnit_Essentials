@@ -12,7 +12,7 @@ class CounterTest extends PHPUnit_Framework_TestCase
     public function setUp()
     {
         $this->result = self::$countFrom;
-   }
+    }
 
     public function testAdd()
     {
